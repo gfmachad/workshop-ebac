@@ -11,8 +11,8 @@ Building a Front-end application using React.JS
 - Environment Setup
 
 # day 2 - Construction
-. Use React Router DOM
-. Request API using Axios
+- Use React Router DOM
+- Request API using Axios
 
 ##  Getting started
 
