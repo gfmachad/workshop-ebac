@@ -33,5 +33,5 @@ or
 
 ```bash
 # Start the project
-$ yarn dev
+$ yarn start
 ```
