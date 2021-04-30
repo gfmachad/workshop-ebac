@@ -4,7 +4,7 @@ Building a Front-end application using React.JS
 
 # day 1 - Notions of project
 
-- concept of frontend
+- Concept of frontend
 - Introduction to React.js (JSX)
 - Components and Props
 - Life cicle and States
